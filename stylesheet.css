@@ -1,0 +1,116 @@
+header {
+
+}
+
+/* Name */
+h1 {
+    font: size 130px;
+ /*   background-color: #96aace ;*/
+    color: #003B6D; 
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 0%;
+    padding-top: 1rem;
+    
+    }
+
+/* Styles small intro about me */
+.Intro {
+    background-image: url(https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBhaW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60);
+   /* background-repeat: no-repeat;
+    background-position: 100%;
+    background-color: #96aace;
+    background-image: #96aace;*/
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 3px solid #003B6D;
+   /* margin-left: 5rem;
+    margin-top: 1rem;*/
+}
+
+.Menulist {
+    margin: 0%;
+    background-color: #EBEDF3;
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+/* Styles all education & experience */
+.maincontent {
+    background-color: #BDBDBD;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #EBEDF3;
+    color: black;
+    margin: 0%;
+}
+
+#Education {
+    color: #003B6D;
+    font-weight: bolder;
+
+}
+
+#Experience {
+    color: #003B6D;
+    font-weight: bolder;
+  }
+
+/* Styling my 3 skill lists */
+.Software {
+
+    color: #003B6D;
+    font-weight: bolder;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+/* Used ID here instead of class as my menu brings the user to this part of my 
+website & cannot be changed or the function will not work */
+#Skills {
+    color: #003B6D;
+    font-weight: bolder;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+ 
+
+.Accomplishments {
+
+    color: #003B6D;
+    font-weight: bolder;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+footer {
+  color: #003B6D;
+  background-color: #676767;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#Contact-Header {
+    text-align: center;
+    color: #003B6D;
+}
+
